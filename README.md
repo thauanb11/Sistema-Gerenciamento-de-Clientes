@@ -28,7 +28,7 @@ React: v17.0.2
 1. **Clonar o repositório:**
  git clone https://github.com/seu-usuario/sistema-gerenciamento-clientes.git
 
- cd sistema-gerenciamento-clientes
+       - cd sistema-gerenciamento-clientes
 
 3. **Instalar Dependências do Backend:**
    
