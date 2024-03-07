@@ -27,9 +27,10 @@ React: v17.0.2
 
 1. **Clonar o repositório:**
  git clone https://github.com/seu-usuario/sistema-gerenciamento-clientes.git
+
  cd sistema-gerenciamento-clientes
 
-2. **Instalar Dependências do Backend:**
+3. **Instalar Dependências do Backend:**
    
        - cd backend
    
@@ -41,7 +42,7 @@ React: v17.0.2
  
        - npm install
 
- 3. **Configurar Banco de Dados:**
+ 4. **Configurar Banco de Dados:**
     
 Crie um banco de dados PostgreSQL chamado sistema_gerenciamento_clientes.
 
